@@ -8,7 +8,7 @@
 <h3> O que será encontrado ao longo desse repositório? </h3>
 <p> Ao longo desse repositórios serão encontrados meus códigos em C++, com explicações e anotações sobre alguns assuntos sobre o que é utilizado nos códigos, como uma "aula/anotação". </p>
 
->🛑 NOTA: O repositório é constantemente atualizado. Podem haver códigos não funcionando e projetos pessoais inacabados.
+>🛑 NOTA: O repositório é constantemente atualizado. Podem haver códigos não funcionando e projetos pessoais inacabados. Além disso, alguns códigos são utilizados com Arduino.
 <div align="center">
 
 <br>
