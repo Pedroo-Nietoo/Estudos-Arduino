@@ -1,4 +1,4 @@
-<h1 align="center"> C++ </h1>
+<h1 align="center"> Arduino (C++) </h1>
 
 <img align="right" alt="Feito com \Arduino" src="https://img.shields.io/badge/Feito_com-Arduino-00878f?style=for-the-badge&logo=Arduino"/>
 
