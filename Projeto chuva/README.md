@@ -1,6 +1,6 @@
 <div align="center">
   <h1> Autoria - Projeto Chuva: Arduino </h1>
-  <p> Projeto livre realizado com Arduino. A ideia do projeto era construir um aparelho que identificasse quando estivesse chovendo e avisasse o usuário, através de estímulos sonoros e visuais. </p>
+  <p> Projeto realizado com Arduino. A ideia era construir um aparelho que identificasse quando estivesse chovendo e avisasse o usuário, através de estímulos sonoros e visuais. </p>
   
   <h4> Participantes: </h4>
   
