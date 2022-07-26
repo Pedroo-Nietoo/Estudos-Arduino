@@ -1,9 +1,9 @@
 <h1 align="center"> Arduino (C++) </h1>
 
 <img align="right" alt="Feito com \Arduino" src="https://img.shields.io/badge/Feito_com-Arduino-00878f?style=for-the-badge&logo=Arduino"/>
-
-<h3> O que é C++? ➕ </h3> 
-<p> Python é uma linguagem programação de alto nível, Open-Source e de propósito geral, interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte. É muito utilizada em data science, machine learning, desenvolvimento de web, desenvolvimento de aplicativos, automação de scripts, fintechs e mais. </p>
+<br>
+<img height="40em" alt="C++" src="https://img.shields.io/badge/C%2B%2B-22272E?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"/>
+<p> C++ é uma linguagem de programação compilada multi-paradigma e de uso geral. Desde os anos 1990 é uma das linguagens comerciais mais populares, sendo bastante usada também na academia por seu grande desempenho e base de utilizadores. </p>
 
 <h3> O que será encontrado ao longo desse repositório? </h3>
 <p> Ao longo desse repositórios serão encontrados meus códigos em C++, com explicações e anotações sobre alguns assuntos sobre o que é utilizado nos códigos, como uma "aula/anotação". </p>
