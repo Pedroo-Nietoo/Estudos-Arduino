@@ -2,10 +2,10 @@
 
 <br>
 
-<img height="40em" alt="C++" src="https://img.shields.io/badge/C%2B%2B-22272E?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"/>
+<img height="40em" alt="C++" src="https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"/>
 <p> C++ é uma linguagem de programação compilada multi-paradigma e de uso geral. Desde os anos 1990 é uma das linguagens comerciais mais populares, sendo bastante usada também na academia por seu grande desempenho e base de utilizadores. </p>
 
-<img height="40em" alt="C++" src="https://img.shields.io/badge/Arduino-22272E?style=for-the-badge&logo=arduino&logoColor=00979D"/>
+<img height="40em" alt="C++" src="https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=00979D"/>
 <p> Arduino é uma plataforma de prototipagem eletrônica de hardware livre e de placa única, projetada com um microcontrolador Atmel AVR com suporte de entrada/saída embutido, uma linguagem de programação padrão, a qual tem origem em Wiring, e é essencialmente C/C++. </p>
 
 <h3> O que será encontrado ao longo desse repositório? </h3>
