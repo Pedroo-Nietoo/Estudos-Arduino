@@ -1,4 +1,4 @@
-<h1 align="center"> C++ (para Arduino) </h1>
+<h1 align="center"> Arduino </h1>
 
 <br>
 
